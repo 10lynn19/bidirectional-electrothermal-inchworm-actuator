@@ -1,0 +1,27 @@
+# macOS and Office temporary files
+.DS_Store
+~$*
+tmp/
+
+# Cadence session locks and transient files
+*.cdslck
+*.cdslck.*
+*.oa-
+**/maestro/history/
+**/maestro/results/
+**/maestro/test_states/
+**/maestro/active.state
+**/libManager.log
+
+# Portfolio repository: omit raw, redundant, and course-administration materials
+Presentation/
+Midterm presentation/
+MEMS Testing/
+Top Chip GDS/
+Cadence/Simulation/
+Comsol_designs/Elliot/
+Comsol_designs/SerpentineSpring.mph
+Final presentation/*.pptx
+Final presentation/*.docx
+Final presentation/PeerEvaluation.pdf
+Final presentation/move.*
