@@ -1,6 +1,6 @@
 # Bidirectional Electrothermal Inchworm Actuator
 
-![Final device demonstration](Final%20presentation/GIF/final_demo_short.gif)
+![Bidirectional electrothermal inchworm actuator demonstration](assets/images/inchworm-actuation-demo.gif)
 
 This repository contains the design, simulation, fabrication, and testing artifacts for **Group E's EECS 425 Integrated Microsystems Laboratory project** at the University of Michigan (Winter 2026).
 
@@ -15,26 +15,21 @@ The project explores a bidirectional MEMS inchworm actuator that uses cascaded e
       <sub><b>Packaged fabricated MEMS dies</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="assets/images/actuation-principle.jpg" alt="Multi-stage actuation principle" width="100%"><br>
-      <sub><b>Multi-stage actuation principle</b></sub>
+      <img src="assets/images/group-e-die.jpg" alt="Fabricated Group E die" width="100%"><br>
+      <sub><b>Fabricated Group E die</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/images/group-e-die.jpg" alt="Fabricated Group E die" width="100%"><br>
-      <sub><b>Fabricated Group E die</b></sub>
-    </td>
-    <td align="center" width="50%">
       <img src="assets/images/cmos-layout.png" alt="CMOS control chip layout" width="100%"><br>
       <sub><b>CMOS control chip layout</b></sub>
     </td>
+    <td align="center" width="50%">
+      <img src="assets/images/mems-layout.png" alt="MEMS actuator layout" width="100%"><br>
+      <sub><b>MEMS actuator layout</b></sub>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="assets/images/mems-layout.png" alt="MEMS actuator layout" width="70%"><br>
-  <sub><b>MEMS actuator layout</b></sub>
-</p>
 
 ## Project goals
 
