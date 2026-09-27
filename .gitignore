@@ -2,6 +2,7 @@
 .DS_Store
 ~$*
 tmp/
+assets/images/move.mp4
 
 # Cadence session locks and transient files
 *.cdslck
