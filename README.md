@@ -6,6 +6,36 @@ This repository contains the design, simulation, fabrication, and testing artifa
 
 The project explores a bidirectional MEMS inchworm actuator that uses cascaded electrothermal stages to achieve and retain larger displacements than a conventional single-stage actuator. A custom control circuit sequences four actuator pairs and a save-state stage, allowing the central structure to move in either direction while minimizing steady-state power.
 
+## Project gallery
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/images/mems-testing-setup.jpg" alt="Packaged fabricated MEMS dies" width="100%"><br>
+      <sub><b>Packaged fabricated MEMS dies</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/images/actuation-principle.jpg" alt="Multi-stage actuation principle" width="100%"><br>
+      <sub><b>Multi-stage actuation principle</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/images/group-e-die.jpg" alt="Fabricated Group E die" width="100%"><br>
+      <sub><b>Fabricated Group E die</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/images/cmos-layout.png" alt="CMOS control chip layout" width="100%"><br>
+      <sub><b>CMOS control chip layout</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/images/mems-layout.png" alt="MEMS actuator layout" width="70%"><br>
+  <sub><b>MEMS actuator layout</b></sub>
+</p>
+
 ## Project goals
 
 - Demonstrate that multi-stage electrothermal actuation can produce useful lateral displacement.
